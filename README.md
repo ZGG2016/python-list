@@ -8,4 +8,7 @@
     <td><a href="https://github.com/ZGG2016/django-demo">django官方文档源码</a></td>
     <td><a href="https://github.com/ZGG2016/HelloDjango-blog-tutorial">django博客项目（入门）</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/ZGG2016/HelloDjango-REST-framework-tutorial">django博客项目(restframework)</a></td>
+  </tr>
 </table>
